@@ -8,7 +8,8 @@ For the project, we were asked to make a generative design system that takes use
 We chose to make designs meant to look like famous portraits by generating different shapes (circles, lines, triangles, rectangles) of varying sizes. The user can choose between three portraits by clicking on the corresponding buttons. The user can switch between shapes he generates by clicking on the sketch and can have multiple shapes overlap. The user can influence the size of the different shapes and the speed at which they appear by using the sliders.
 
 Examples of possible results (can get different ones by influencing the parameters) :
-![image](https://github.com/Christophe-Saury/Repainting_Masterpiece/assets/95085659/22da8874-0139-4820-9de3-ac8e9bcf04ca)
+![image](https://github.com/Christophe-Saury/Repainting_Masterpiece/assets/95085659/82ddf5bb-8ca6-4e40-a524-6c760a6bc074)
+
 
 ![image](https://github.com/Christophe-Saury/Repainting_Masterpiece/assets/95085659/494bfd2b-7874-4aa8-8aa0-de05a57c1fc2)
 
